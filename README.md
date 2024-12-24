@@ -32,11 +32,11 @@ Accepting cookies through your web browser is a personal choice. By modifying yo
  
 USING THE INFORMATION WE COLLECT
 We use the information we collect for various purposes, including:
-To provide the services you request
-To send you promotional information and other offerings
-To identify your product and service preferences, so that you can be informed of new or additional products, services, and promotions that might be of interest to you
-To determine the effectiveness of our Internet presence and improve the functionality of our website
-To improve our merchandise selections, customer service, and overall customer experience
+- To provide the services you request
+- To send you promotional information and other offerings
+- To identify your product and service preferences, so that you can be informed of new or additional products, services, and promotions that might be of interest to you
+- To determine the effectiveness of our Internet presence and improve the functionality of our website
+- To improve our merchandise selections, customer service, and overall customer experience
  INFORMATION WE SHARE WITH OTHERS
 This website may share names and addresses of our customers with affiliated businesses and responsible companies so they can let you know about products or services we think might be of interest to you; however, these parties do not have any independent right to share this information.
 
@@ -111,7 +111,7 @@ If you would like further information, or have any questions about our Privacy S
 Attention: Customer Service
 3-1-14, Ohmiyadori, Moriguchi City, Osaka, Japan 570-0033
 
-C Call us toll-free at: 0120-076-074
+Call us toll-free at: 0120-076-074
 Fax us toll-free at: 06-6993-5677
 E-mail us at: hinkan@bal-ohashi.com
 
