@@ -84,7 +84,9 @@ Attention: Customer Service
 3-1-14, Ohmiyadori, Moriguchi City, Osaka, Japan 570-0033
 
 Call us toll-free at: 0120-076-074
+
 Fax us toll-free at: 06-6993-5677
+
 E-mail us at: hinkan@bal-ohashi.com
 
 
@@ -112,7 +114,9 @@ Attention: Customer Service
 3-1-14, Ohmiyadori, Moriguchi City, Osaka, Japan 570-0033
 
 Call us toll-free at: 0120-076-074
+
 Fax us toll-free at: 06-6993-5677
+
 E-mail us at: hinkan@bal-ohashi.com
 
 
@@ -120,4 +124,5 @@ Last updated: 12/21/2014
 3-1-14, Ohmiyadori, Moriguchi City, Osaka, Japan 570-0033
 
 Call us toll-free at: 0120-076-074
+
 E-mail us at: hinkan@bal-ohashi.com
